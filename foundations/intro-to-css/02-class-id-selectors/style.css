@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p{
+  background-color: rgba(255, 0, 0, 0.3);
+  font-family:"Verdana", "DejaVu Sans", sans-serif
+}
+
+p.class2{
+    font-size: 24px;
+}
+
+div#id1{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+div#id2{
+    background-color: rgba(0,255,10,0.65);
+    font-weight: bold;
+    font-size: 24px;
+}
